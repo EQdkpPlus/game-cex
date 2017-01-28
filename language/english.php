@@ -24,7 +24,7 @@ if ( !defined('EQDKP_INC') ){
 }
 $english_array =  array(
 	'servers' => array(
-		''	=> 'choose a server',
+		0	=> 'choose a server',
 		1	=> 'Purist',
 		2	=> 'Relaxed',
 		3	=> 'Harcore',
@@ -34,7 +34,7 @@ $english_array =  array(
 		7	=> 'Private Server',
 	),
 	'classes' => array(
-		''	=> 'choose a weapon',
+		0	=> 'choose a weapon',
 		1	=> 'Sword',
 		2	=> 'Hammer',
 		3	=> 'Bow',
@@ -42,7 +42,7 @@ $english_array =  array(
 		5   => 'Leech',
 	),
 	'religions' => array(
-		''	=> 'choose a religion',
+		0	=> 'choose a religion',
 		1	=> 'Crom',
 		2	=> 'Set',
 		3	=> 'Mitra',

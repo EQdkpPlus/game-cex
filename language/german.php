@@ -24,7 +24,7 @@ if ( !defined('EQDKP_INC') ){
 }
 $german_array =  array(
 	'servers' => array(
-		''	=> 'wähle einen server',
+		0	=> 'wähle einen server',
 		1	=> 'Purist',
 		2	=> 'Entspannt',
 		3	=> 'Harcore',
@@ -34,7 +34,7 @@ $german_array =  array(
 		7	=> 'Private Server',
 	),
 	'classes' => array(
-		''	=> 'wähle eine Waffe',
+		0	=> 'wähle eine Waffe',
 		1	=> 'Schwert',
 		2	=> 'Hammer',
 		3	=> 'Bogen',
@@ -42,7 +42,7 @@ $german_array =  array(
 		5   => 'Leech',
 	),
 	'religions' => array(
-		''	=> 'wähle eine Religion',
+		0	=> 'wähle eine Religion',
 		1	=> 'Crom',
 		2	=> 'Set',
 		3	=> 'Mitra',
